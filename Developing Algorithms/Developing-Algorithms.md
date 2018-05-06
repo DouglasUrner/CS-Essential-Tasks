@@ -14,6 +14,7 @@
 * Know that the three building blocks aro sufficient to express any correct computational algoritm.
 * Explain each of the three building blocks.
 * Identify examples of each of the building blocks in examples of actual code.
+* Implement an algorithm given a problem statement
 * Develop an original algorithm to solve a computing problem.
 * Express an algorithm in a flow chart.
 * Express an algorithm in pseudocode.
@@ -21,11 +22,16 @@
 * Test an algorithm for correctness.
 * Identify potential "corner cases."
 * Describe the algorithm expressed in code written by others.
+* Combine algorithms to solve a problem.
+* Search for and apply a known algorithm to solve a problem.
 
 ## Related Tasks
 
 Skills, knowledge, and behaviors that are likely to be demonstratable in the context of this task:
 
-*
+* Breaking a problem down into smaller problems.
+* Iterating on a solution
+* Reason about programs
+* Communicate about programs (explain, report results of testing, read spec).
 
 ## Applicable Standards
