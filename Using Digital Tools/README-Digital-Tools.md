@@ -13,6 +13,10 @@
   - Make practice tools available, no assignments, but retest at the end of the semester. Retest changes score, evidence of practice and growth through practice can be used to demonstrate self-directed learning.
 
 * File Management
+  - Understand the storage models (local and remote disks, which storage follows you, cloud storage).
+  - Organize folders & files.
+  - Rename folders & files.
+  - Delete and recover folders & files.
 
 * Git
 * GitHub
