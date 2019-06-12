@@ -17,6 +17,12 @@ ECS identifies the essential tasks of a computer scientist – the commonality 
 
 * Analyzing the effects of developments in computing
 * Designing and implementing creative solutions and artifacts
+  From the AP CS A course description:
+  - Program design & algorithm implementation
+  - Code logic
+  - Code implementation
+  - Code testing
+  - Documentation
 * Applying abstractions and models
 * Analyzing their computational work and the work of others
 * Communicating computational thought processes, procedures, and results to others
