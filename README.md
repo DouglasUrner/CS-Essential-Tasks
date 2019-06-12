@@ -15,18 +15,18 @@ Drawing on the work of Joanne Goode and Gail Chapman in developing the [Explorin
 
 ECS identifies the essential tasks of a computer scientist – the commonality that underlies all work in CS – as:
 
-* Analyzing the effects of developments in computing
-* Designing and implementing creative solutions and artifacts
+* Analyzing the effects of developments in computing  
+* Designing and implementing creative solutions and artifacts  
   From the AP CS A course description:
   - Program design & algorithm implementation
   - Code logic
   - Code implementation
   - Code testing
   - Documentation
-* Applying abstractions and models
-* Analyzing their computational work and the work of others
-* Communicating computational thought processes, procedures, and results to others
-* Collaborating with peers on computing activities
+* Applying abstractions and models  
+* Analyzing their computational work and the work of others  
+* Communicating computational thought processes, procedures, and results to others  
+* Collaborating with peers on computing activities  
 
 The authors of the CSP curriculum identify a similar set of "big ideas" in computer science:
 
